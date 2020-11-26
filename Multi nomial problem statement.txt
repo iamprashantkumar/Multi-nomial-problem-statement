@@ -1,0 +1,9 @@
+1. You need to predict the type of program a studen in based on other attributes--> mdata.csv
+prog :	is a categorical variable indicating what type of program a student is in: “General” (1), “Academic” (2), or “Vocational” (3)
+Ses:	 is a categorical variable indicating someone’s socioeconomic class: “Low” (1), “Middle” (2), and “High” (3)
+read,write,math,science:	is their scores on different tests
+honors:	Whether they have enrolled or not
+
+
+2. Here,you need to predict the apply variable,which is an ordered categorical variable with responses to a survey about whether a student feels
+   they are “Unlikely” (0), “Somewhat likely” (1), or “Very likely” (2) to apply to graduate school -->odata.csv
